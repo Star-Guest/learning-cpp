@@ -2,11 +2,16 @@
 C++练习 小实验 学习笔记
 
 
-This repository records my journey learning modern C++.
+# Learning C++
 
-Topics:
-- C++ fundamentals
-- STL
+A repository documenting my journey of learning modern C++,
+systems programming, and software engineering practices.
+
+## Topics
+
 - Modern C++
-- Linux programming
-- Small projects
+- STL and Standard Library
+- Linux Programming
+- CMake
+- Debugging
+- Small Projects
