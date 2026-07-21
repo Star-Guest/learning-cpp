@@ -1,5 +1,5 @@
 # learning-cpp
-C++练习 小实验 学习笔记
+C++ practice, experiments, and notes on modern C++ and systems programming.
 
 
 # Learning C++
