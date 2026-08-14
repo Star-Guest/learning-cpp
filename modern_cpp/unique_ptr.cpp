@@ -3,7 +3,7 @@
 
 class  Test
 {
-public:
+public：
   Test(/* args */)
 {
       std::cout<< "Construct\n";
